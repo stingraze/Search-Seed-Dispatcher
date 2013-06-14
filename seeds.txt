@@ -1,0 +1,7 @@
+http://www.mohawksearch.com/perl/search.cgi?query=first%20%0a
+http://www.mohawksearch.com/perl/search.cgi?query=word%0a
+http://www.mohawksearch.com/perl/search.cgi?query=here%0a
+http://www.mohawksearch.com/perl/search.cgi?query=add%20%0a
+http://www.mohawksearch.com/perl/search.cgi?query=more%0a
+http://www.mohawksearch.com/perl/search.cgi?query=to%0a
+http://www.mohawksearch.com/perl/search.cgi?query=me%2e
