@@ -4,6 +4,8 @@ It's easy to use.
 
 First separate words into one word per line in meishi.txt.
 
+Use tools such as chasen or mecab for splitting words (especially Japanese)
+
 Run seed-dispatcher.pl using Perl
 
 The seeds.txt will be made. 
