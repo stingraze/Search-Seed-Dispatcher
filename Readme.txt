@@ -6,9 +6,9 @@ First separate words into one word per line in meishi.txt.
 
 Run seed-dispatcher.pl using Perl
 
-The seeds.dat will be made. 
+The seeds.txt will be made. 
 
-Use the seeds.dat to start crawling for your search engine.
+Use the seeds.txt to start crawling for your search engine.
 
 Simple as that.
 
