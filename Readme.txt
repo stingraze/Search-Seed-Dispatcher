@@ -16,4 +16,4 @@ Simple as that.
 
 Tsubasa Kato (@stingraze)
 
-Visit: http://www.mohawksearch.com for a working BETA.
+Visit: http://www.mohawksearch.com for a working BETA of it working in the real world behind scenes.
