@@ -16,4 +16,4 @@ Simple as that.
 
 Tsubasa Kato (@stingraze)
 
-http://www.mohawksearch.com
+Visit: http://www.mohawksearch.com for a working BETA.
