@@ -16,4 +16,4 @@ Simple as that.
 
 Tsubasa Kato (@stingraze)
 
-Visit: http:/www.superai.online/solr for a working BETA of it working in the real world behind scenes.
+Visit: http://www.superai.online/solr for a working BETA of it working in the real world behind scenes.
