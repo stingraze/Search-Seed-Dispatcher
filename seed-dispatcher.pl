@@ -12,7 +12,7 @@ foreach $data (@file) {
 $data =~ s/(\W)/'%'.unpack("H2", $1)/ego;
 $data =~ tr/ /+/;
   chomp($data);
-  print FH2 "http://www.mohawksearch.com/perl/search.cgi?query=$data\n";
+  print FH2 "http://www.superai.online/solr/search.php?query=$data\n";
 }
 
 close FH2;
